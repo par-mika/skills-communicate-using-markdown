@@ -5,3 +5,8 @@ Add headers
 
 Here is the Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+And code
+``` javascript
+var myVar = "Hello, world!";
+```
